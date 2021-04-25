@@ -14,6 +14,7 @@ Do you searching for cheap and simple electronics projects, then this project is
 To make this circuit, we might need some electronics project. Those component list have to been given below.
 
 Project No – 1
+
 Project Name –  Blinking 5mm LED with AC voltage
 
 Component list : 
@@ -33,6 +34,7 @@ The circuit contain AC voltage ⚡.. If you are beginner, then you should use se
 Now just plug-in AC voltage & enjoy the circuit.
 
 Project No – 2
+
 Project Name – Touch switch circuit using silicon transistor.
 
 Component list -
@@ -54,6 +56,7 @@ Now we connect battery connector with the battery. Our circuit is ready for use.
 Now you can use your circuit as like school or college project.  Enjoy the circuit.
 
 Project No – 3
+
 Project Name –  Connect 5mm LED with AC volt.
 
 Component list : 
