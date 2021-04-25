@@ -1,6 +1,13 @@
 # Top-3-Electronics-Project-With-Diac-LED-C945 - JLCPCB
 
+
+Thanks To JLCPCB.
+$2 for 1-4 Layer PCBs.
+Get SMT Coupons: https://jlcpcb.com/RTA
+
+
 Do you searching for cheap and simple electronics projects, then this project is for you. In this project I will teach you making 3 simple electronics project circuit. You can make this circuit at home easily. You also use this circuit as like school project college project and university project. 
+
 
 To make this circuit, we might need some electronics project. Those component list have to been given below.
 
